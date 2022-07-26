@@ -21,9 +21,14 @@
  :diamond_shape_with_a_dot_inside: Residência Onboard - Oficina Lean Canvas 
 
  :diamond_shape_with_a_dot_inside: Seja Protagonista Nesse BootCamp
- 
+
  :diamond_shape_with_a_dot_inside: Dominando IDEs Java
 
+:diamond_shape_with_a_dot_inside:  Programação Orientada a Objeto 
+
+:diamond_shape_with_a_dot_inside: Oficina Onboard - Oficina de Pitch
+
+:diamond_shape_with_a_dot_inside: Oficina Onboard - Oficina de Robótica Livre no LOUCo 
 
 
 
