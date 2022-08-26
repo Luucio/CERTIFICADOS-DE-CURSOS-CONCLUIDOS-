@@ -30,5 +30,7 @@
 
 :diamond_shape_with_a_dot_inside: Oficina Onboard - Oficina de Robótica Livre no LOUCo 
 
+:diamond_shape_with_a_dot_inside: Contextualização do Cenário na Área de Banco de Dados 
+
 
 
